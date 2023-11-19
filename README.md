@@ -1,6 +1,6 @@
 
-# 🔐🔑🔒 MD5 Hash Cracker
-#### Welcome to MD5 Hash Cracker Project Console Based Application Develop in Python.
+# 🔐🔑🔒 UnveilMD5
+#### Welcome to UnveilMD5. It is MD5 Hash Cracker Project Which Perfom Dictionary Attack Console Based Application Develop in Python.
 
 
 ## 🌐 Technologies Used
@@ -21,7 +21,7 @@ Follow the steps to set up and run the project on your local machine
 
   ### 1. Clone the Repository
   ```bash
-https://github.com/Saroj-kr-tharu/Md5-hash-Cracker----python.git
+https://github.com/Saroj-kr-tharu/UnveilMD5.git
  ```
  ### 3. Run the Application
   ```bash
